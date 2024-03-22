@@ -1,6 +1,38 @@
+# Project Name : https://github.com/imranalam04/GoIndiaStock-assignment
+
+This project is more likely a News-blog type project 
+
+## Prerequisites 
+
+NextJS is required
+React is required
+Tailwind is required
+Javascript is required
+
+Before running this project, ensure you have the following installed:
+
+-Node.js: [Download and install Node.js](https://nodejs.org/)
+- npm: npm comes bundled with Node.js installation.
+
+## Installation
+
+1. Clone the repository to your local machine using:
+```bash
+   git clone https://github.com/your-username/your-repository.git
+
+2. Navigate to the project directory:
+ cd your-repository
+
+3. Install the dependencies:
+
+npm install
+
+/*--------------------------------------------------------------------------------------------------------*/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
 
 First, run the development server:
 
